@@ -1,9 +1,5 @@
-![](https://miro.medium.com/max/1920/1*sj0f0bLhCNBMlWam80drpQ.png)
 # Kartpool
 > Community driven delivery platform for the ones who need it the most
-
-### This repository contains the complete source-code for the blog post:
-[Thinking of building a contact-tracing application? Here's what you can do instead.](https://medium.com/egen/thinking-of-building-a-contact-tracing-application-heres-what-you-can-do-instead-4522e1d98739)
 
 ### App Screenshot
 ![](https://miro.medium.com/max/1835/1*ROFwy3bSYmWy39qLmlTZTw.png)
