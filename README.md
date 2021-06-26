@@ -44,19 +44,8 @@ I highly recommend a Docker installation:
 2. **Start Django web server (Make sure the virtual environment is activated)**
     `python manage.py runserver`
 
-3. **Follow the tutorial!**
-
 
 ## To write psql queries
 `psql -h localhost -p 5432 -U postgres -W`
 
 Once you connect to the database, enable the PostGIS extension by typing `enable extension postgis`
-
-
-# Credits
-
-I've had much help from this [excellent tutorial](https://realpython.com/location-based-app-with-geodjango-tutorial/)
-
-# Contact
-
-For any questions, reach out on email.
